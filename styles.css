@@ -1,0 +1,146 @@
+.image { 
+    
+    padding: 50px;
+float: top;
+text-align: center;
+margin-top: 100px;
+        }
+
+
+        .formulaire { 
+          border-radius: 30px;
+          margin: 0 auto;
+        position: relative;
+float: bottom;
+  width: 600px;
+      height: 45px;
+      border-style: solid;
+      border-color: #e0e0e0d2;
+      border-width: 1px;
+      }
+
+      .formulaire:hover { 
+          box-shadow: 2px 2px 2px #e0e0e0d2;
+}
+
+
+.topnav {
+  overflow: hidden;
+  margin: 0px;
+}
+
+.topnav li {
+  display: inline;
+}
+
+.topnav a {
+ float:left;
+  color: #000000CD;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav a:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+
+.topnav-right {
+  float: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+
+.topnav-left {
+  float: left;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+.app-img {
+vertical-align: middle;
+width: 30px;
+opacity: 0.55;
+}
+
+.app-img:hover {
+  opacity: 1;
+}
+
+.button {
+  background: linear-gradient(0deg,#4387fd,#4683ea);
+    border: 1px solid #4285f4;
+    font-weight: bold;
+    outline: none;
+    color: #fff;
+    padding: 0 12px;
+    line-height: 28px;
+    border-radius: 2px;
+    font-size: 13px;
+    margin:0 15px 0 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.boutonrecherche {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  height: 36px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+color: #5F6368;
+border-radius: 4px;
+cursor:pointer;
+width: 150.75px;
+margin: 11px 4px;
+    margin-top: 11px;
+    margin-right: 4px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+}
+
+
+.boutonrecherche:hover {
+  border: 1.5px solid #dad8d8;
+}
+
+.boutonlucky {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  height: 36px;
+  width: 150.75px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+color: #5F6368;
+border-radius: 4px;
+cursor:pointer;
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+    margin: 11px 4px;
+    margin-top: 11px;
+    margin-right: 4px;
+    margin-bottom: 11px;
+    margin-left: 4px;
+}
+
+.boutonlucky:hover {
+  border: 1.5px solid #dad8d8;
+}
+
+center {
+  display: block;
+  text-align: -webkit-center;
+  margin-top: 20px;
+}
+
