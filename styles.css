@@ -7,11 +7,12 @@ margin-top: 100px;
         }
 
 
-        .formulaire { 
-          border-radius: 30px;
+    #barrerecherche { 
+      display: block;
+          border-radius: 20px;
           margin: 0 auto;
         position: relative;
-float: bottom;
+        display: block;
   width: 600px;
       height: 45px;
       border-style: solid;
@@ -19,10 +20,26 @@ float: bottom;
       border-width: 1px;
       }
 
-      .formulaire:hover { 
-          box-shadow: 2px 2px 2px #e0e0e0d2;
+      #barrerecherche:hover { 
+          box-shadow: 0 0 3px 1px #e0e0e0d2;
 }
 
+#loupe {
+  position: absolute;
+  color: #9aa0a6;
+  height: 24px;
+  width: 24px;
+  top: 353px;
+    left: 355px;
+}
+
+#micro {
+  position: absolute;
+  height: 24px;
+  width: 24px;
+  top: 353px;
+  left: 900px;
+}
 
 .topnav {
   overflow: hidden;
